@@ -1,7 +1,5 @@
 package com.example.movieinfosevice.models;
 
-import java.security.PrivateKey;
-
 public class Movie {
 
     private int movieId;
