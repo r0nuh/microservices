@@ -1,4 +1,4 @@
-package com.example.ratingsdatasevice.models;
+package com.example.moviecatalogsevice.models;
 
 import java.util.List;
 
