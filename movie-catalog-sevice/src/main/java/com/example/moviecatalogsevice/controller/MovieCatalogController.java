@@ -2,7 +2,6 @@ package com.example.moviecatalogsevice.controller;
 
 import com.example.moviecatalogsevice.models.CatalogItem;
 import com.example.moviecatalogsevice.models.Movie;
-import com.example.moviecatalogsevice.models.Rating;
 import com.example.moviecatalogsevice.models.UserRating;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
